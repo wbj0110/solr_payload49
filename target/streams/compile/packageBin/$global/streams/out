@@ -1,0 +1,27 @@
+[0m[[0minfo[0m] [0mPackaging D:\workspace-sts-3.5.1.RELEASE\solr4_9_payload\target\scala-2.11\solr4payload_2.11-1.0.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	com\xiaomishu\solr49\payloads\CopyPayloadSimilarity.class[0m
+[0m[[0mdebug[0m] [0m	  D:\workspace-sts-3.5.1.RELEASE\solr4_9_payload\target\scala-2.11\classes\com\xiaomishu\solr49\payloads\CopyPayloadSimilarity.class[0m
+[0m[[0mdebug[0m] [0m	com\xiaomishu\solr49\payloads\PayloadQParserPlugin.class[0m
+[0m[[0mdebug[0m] [0m	  D:\workspace-sts-3.5.1.RELEASE\solr4_9_payload\target\scala-2.11\classes\com\xiaomishu\solr49\payloads\PayloadQParserPlugin.class[0m
+[0m[[0mdebug[0m] [0m	com\xiaomishu\solr49\payloads\XiaomishuSimilarityWrapper.class[0m
+[0m[[0mdebug[0m] [0m	  D:\workspace-sts-3.5.1.RELEASE\solr4_9_payload\target\scala-2.11\classes\com\xiaomishu\solr49\payloads\XiaomishuSimilarityWrapper.class[0m
+[0m[[0mdebug[0m] [0m	com\xiaomishu\solr49\payloads\PayloadQueryTreeBuilder.class[0m
+[0m[[0mdebug[0m] [0m	  D:\workspace-sts-3.5.1.RELEASE\solr4_9_payload\target\scala-2.11\classes\com\xiaomishu\solr49\payloads\PayloadQueryTreeBuilder.class[0m
+[0m[[0mdebug[0m] [0m	com\xiaomishu\solr49[0m
+[0m[[0mdebug[0m] [0m	  D:\workspace-sts-3.5.1.RELEASE\solr4_9_payload\target\scala-2.11\classes\com\xiaomishu\solr49[0m
+[0m[[0mdebug[0m] [0m	com\xiaomishu\solr49\payloads\PayloadQueryNodeBuilder.class[0m
+[0m[[0mdebug[0m] [0m	  D:\workspace-sts-3.5.1.RELEASE\solr4_9_payload\target\scala-2.11\classes\com\xiaomishu\solr49\payloads\PayloadQueryNodeBuilder.class[0m
+[0m[[0mdebug[0m] [0m	com\xiaomishu\solr49\payloads\PayloadSimilarity.class[0m
+[0m[[0mdebug[0m] [0m	  D:\workspace-sts-3.5.1.RELEASE\solr4_9_payload\target\scala-2.11\classes\com\xiaomishu\solr49\payloads\PayloadSimilarity.class[0m
+[0m[[0mdebug[0m] [0m	com\xiaomishu[0m
+[0m[[0mdebug[0m] [0m	  D:\workspace-sts-3.5.1.RELEASE\solr4_9_payload\target\scala-2.11\classes\com\xiaomishu[0m
+[0m[[0mdebug[0m] [0m	com\xiaomishu\solr49\payloads\PayloadQueryParser.class[0m
+[0m[[0mdebug[0m] [0m	  D:\workspace-sts-3.5.1.RELEASE\solr4_9_payload\target\scala-2.11\classes\com\xiaomishu\solr49\payloads\PayloadQueryParser.class[0m
+[0m[[0mdebug[0m] [0m	com[0m
+[0m[[0mdebug[0m] [0m	  D:\workspace-sts-3.5.1.RELEASE\solr4_9_payload\target\scala-2.11\classes\com[0m
+[0m[[0mdebug[0m] [0m	com\xiaomishu\solr49\payloads\PayloadQParser.class[0m
+[0m[[0mdebug[0m] [0m	  D:\workspace-sts-3.5.1.RELEASE\solr4_9_payload\target\scala-2.11\classes\com\xiaomishu\solr49\payloads\PayloadQParser.class[0m
+[0m[[0mdebug[0m] [0m	com\xiaomishu\solr49\payloads[0m
+[0m[[0mdebug[0m] [0m	  D:\workspace-sts-3.5.1.RELEASE\solr4_9_payload\target\scala-2.11\classes\com\xiaomishu\solr49\payloads[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m
